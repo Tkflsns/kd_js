@@ -21,7 +21,11 @@ header {
     justify-content: space-between; /*공간을 개수만큼 등분 */
     align-items: center;
 
-    padding: 0px 30px;
+    /* padding: 0px 30px; */
+}
+
+header h1, header p{
+    padding: 20px;
 }
 
 a, a:visited, a:link{
