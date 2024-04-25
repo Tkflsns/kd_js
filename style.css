@@ -68,12 +68,12 @@ nav ul li{
     border-style: none;
 }
 
-section ul li:hover{
+article ul li:hover{
     background-color: coral;
     color: white;
 }
 
-section ul li{
+article ul li{
     margin: 1rem;
     font-size: 1.5rem;
     text-align: left;

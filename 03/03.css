@@ -1,0 +1,21 @@
+#btDiv4, #btDiv4 > section, section > p {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btDiv4 {
+    height: 400px;
+    flex-direction: column;
+  } 
+  
+  section > p { 
+    height: 300px;
+    border: none;
+    flex-direction: column;
+  
+    background-color: aliceblue;
+    margin: 0px 20px;
+  }
+   
